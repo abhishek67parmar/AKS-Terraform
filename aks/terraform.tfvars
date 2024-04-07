@@ -1,3 +1,3 @@
-clientId = "xxxxx"
+clientId = "<--- Enter service principal appId here --->"
 
-clientSecret = "xxxxx"
+clientSecret = "<--- Enter service principal password here --->"
